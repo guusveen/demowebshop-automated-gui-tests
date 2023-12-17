@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MainTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdefecc5-abf1-4cb6-8a3d-40ffbdf9f919</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6bdfc7f0-8a39-4a7f-97fa-b0ba3ea46a49</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/itemData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6bdfc7f0-8a39-4a7f-97fa-b0ba3ea46a49</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>item1</value>
+      <variableId>2eaaaeb0-a03d-4746-a611-b6625ea62af7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6bdfc7f0-8a39-4a7f-97fa-b0ba3ea46a49</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>item2</value>
+      <variableId>d08e0be8-4659-4dc2-a593-03f482d49747</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2eaaaeb0-a03d-4746-a611-b6625ea62af7</id>
+      <masked>false</masked>
+      <name>item1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d08e0be8-4659-4dc2-a593-03f482d49747</id>
+      <masked>false</masked>
+      <name>item2</name>
+   </variable>
+</TestCaseEntity>
